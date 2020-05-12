@@ -1,0 +1,1194 @@
+NCursesDisplay::Display()
+NCursesDisplay::Display()===========
+NCursesDisplay::Display()+++++++++++
+NCursesDisplay::Display()-----------
+NCursesDisplay::Display()__________
+System::Kernel()
+[?1049h[22;0;0t[1;65r(B[m[4l[?7h[39;49m[39;49m[37m[40m[H[2J(0[0m[39;49m[37m[40mlq[130bk(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m OS: Ubuntu 18.04.4 LTS[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Kernel: 4.15.0-99-generic[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m CPU:    [34m[40m0%|[51X[4;65H0.0/100%[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Memory: [34m[40m0%|[23b[27X[5;64H47.6/100%[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Total Processes: 13166[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Running Processes: 2[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Up Time: 5:1:28[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mmq[130bj(B[39;49m[37m[40m[8;18H(0[0m[39;49m[37m[40m(B[39;49m[37m[40m
+ NCursesDisplay::Display()**********
+PIDs
+= 1
+PIDs
+= 2
+PIDs
+= 4
+PIDs
+= 6
+PIDs
+= 7
+PIDs
+= 8
+PIDs
+= 9
+PIDs
+= 10
+PIDs
+= 11
+PIDs
+= 12
+PIDs
+= 13
+PIDs
+= 14
+PIDs
+= 15
+PIDs
+= 16
+PIDs
+= 18
+PIDs
+= 19
+PIDs
+= 20
+PIDs
+= 21
+PIDs
+= 22
+PIDs
+= 24
+PIDs
+= 25
+PIDs
+= 26
+PIDs
+= 27
+PIDs
+= 28
+PIDs
+= 30
+PIDs
+= 31
+PIDs
+= 32
+PIDs
+= 33
+PIDs
+= 34
+PIDs
+= 38
+PIDs
+= 39
+PIDs
+= 40
+PIDs
+= 41
+PIDs
+= 42
+PIDs
+= 43
+PIDs
+= 44
+PIDs
+= 45
+PIDs
+= 46
+PIDs
+= 47
+PIDs
+= 48
+PIDs
+= 49
+PIDs
+= 50
+PIDs
+= 51
+PIDs
+= 55
+PIDs
+= 57
+PIDs
+= 99
+PIDs
+= 100
+PIDs
+= 105
+PIDs
+= 114
+PIDs
+= 135
+PIDs
+= 191
+PIDs
+= 192
+PIDs
+= 194
+PIDs
+= 195
+PIDs
+= 196
+PIDs
+= 197
+PIDs
+= 198
+PIDs
+= 199
+PIDs
+= 203
+PIDs
+= 204
+PIDs
+= 205
+PIDs
+= 206
+PIDs
+= 210
+PIDs
+= 211
+PIDs
+= 213
+PIDs
+= 214
+PIDs
+= 297
+PIDs
+= 298
+PIDs
+= 332
+PIDs
+= 342
+PIDs
+= 394
+PIDs
+= 408
+PIDs
+= 438
+PIDs
+= 452
+PIDs
+= 472
+PIDs
+= 487
+PIDs
+= 496
+PIDs
+= 750
+PIDs
+= 764
+PIDs
+= 770
+PIDs
+= 952
+PIDs
+= 955
+PIDs
+= 994
+PIDs
+= 995
+PIDs
+= 997
+PIDs
+= 999
+PIDs
+= 1003
+PIDs
+= 1008
+PIDs
+= 1013
+PIDs
+= 1014
+PIDs
+= 1019
+PIDs
+= 1029
+PIDs
+= 1030
+PIDs
+= 1035
+PIDs
+= 1038
+PIDs
+= 1039
+PIDs
+= 1040
+PIDs
+= 1043
+PIDs
+= 1045
+PIDs
+= 1110
+PIDs
+= 1134
+PIDs
+= 1135
+PIDs
+= 1141
+PIDs
+= 1182
+PIDs
+= 1202
+PIDs
+= 1209
+PIDs
+= 1341
+PIDs
+= 1345
+PIDs
+= 1347
+PIDs
+= 1352
+PIDs
+= 1536
+PIDs
+= 1537
+PIDs
+= 1551
+PIDs
+= 1554
+PIDs
+= 1593
+PIDs
+= 1914
+PIDs
+= 2047
+PIDs
+= 2120
+PIDs
+= 2125
+PIDs
+= 2134
+PIDs
+= 2139
+PIDs
+= 2141
+PIDs
+= 2143
+PIDs
+= 2151
+PIDs
+= 2165
+PIDs
+= 2173
+PIDs
+= 2174
+PIDs
+= 2178
+PIDs
+= 2197
+PIDs
+= 2202
+PIDs
+= 2206
+PIDs
+= 2224
+PIDs
+= 2229
+PIDs
+= 2244
+PIDs
+= 2248
+PIDs
+= 2259
+PIDs
+= 2261
+PIDs
+= 2263
+PIDs
+= 2271
+PIDs
+= 2279
+PIDs
+= 2284
+PIDs
+= 2286
+PIDs
+= 2287
+PIDs
+= 2295
+PIDs
+= 2303
+PIDs
+= 2307
+PIDs
+= 2314
+PIDs
+= 2324
+PIDs
+= 2327
+PIDs
+= 2328
+PIDs
+= 2339
+PIDs
+= 2341
+PIDs
+= 2357
+PIDs
+= 2366
+PIDs
+= 2378
+PIDs
+= 2383
+PIDs
+= 2410
+PIDs
+= 2413
+PIDs
+= 2463
+PIDs
+= 2464
+PIDs
+= 2485
+PIDs
+= 2495
+PIDs
+= 2532
+PIDs
+= 2543
+PIDs
+= 2546
+PIDs
+= 2567
+PIDs
+= 2570
+PIDs
+= 2587
+PIDs
+= 2607
+PIDs
+= 2654
+PIDs
+= 2668
+PIDs
+= 2675
+PIDs
+= 2681
+PIDs
+= 2705
+PIDs
+= 2762
+PIDs
+= 2773
+PIDs
+= 2784
+PIDs
+= 2846
+PIDs
+= 2860
+PIDs
+= 2945
+PIDs
+= 2994
+PIDs
+= 3018
+PIDs
+= 3068
+PIDs
+= 4922
+PIDs
+= 5022
+PIDs
+= 6445
+PIDs
+= 7850
+PIDs
+= 8339
+PIDs
+= 8816
+PIDs
+= 8819
+PIDs
+= 8820
+PIDs
+= 9040
+PIDs
+= 9097
+PIDs
+= 9342
+PIDs
+= 9353
+PIDs
+= 9692
+PIDs
+= 9693
+PIDs
+= 9706
+PIDs
+= 9707
+PIDs
+= 9755
+PIDs
+= 9782
+PIDs
+= 9788
+PIDs
+= 9882
+PIDs
+= 9902
+PIDs
+= 10789
+PIDs
+= 12860
+PIDs
+= 13167
+===========
+----------
+__________
+***********
+&&&&&&&&
+^^^^^^^^^
+%%%%%%%%%%
+$$$$$$$$$
+#########
+Process::Pid(): 1
+PID: Process::Pid(): 1
+1
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 2
+PID: Process::Pid(): 2
+2
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 4
+PID: Process::Pid(): 4
+4
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 6
+PID: Process::Pid(): 6
+6
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 7
+PID: Process::Pid(): 7
+7
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 8
+PID: Process::Pid(): 8
+8
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 9
+PID: Process::Pid(): 9
+9
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 10
+PID: Process::Pid(): 10
+10
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 11
+PID: Process::Pid(): 11
+11
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 12
+PID: Process::Pid(): 12
+12
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+NCursesDisplay::Display()&&&&&&&&&&
+NCursesDisplay::Display()^^^^^^^^^^^
+
+
+(0[0m[39;49m[37m[40mlq[130bk(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m [32m[40mPID(B[m[39;49m[37m[40m    [32m[40mUSER(B[m[39;49m[37m[40m   [32m[40mCPU[%](B[m[39;49m[37m[40m    [32m[40mRAM[MB](B[m[39;49m[37m[40m  [32m[40mTIME+[47GCOMMAND[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 1[10Groot   inf[27G225.000000:0:0[47G/sbin/init[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 2[10Groot   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 4[10Groot   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 6[10Groot   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 7[10Groot   inf[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 8[10Groot   inf[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 9[10Groot   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 10     root   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 11     root   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 12     root   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mmq[130bj(B[39;49m[37m[40m[21;47H(0[0m[39;49m[37m[40m(B[39;49m[37m[40mNCursesDisplay::Display()%%%%%%%%%%%%
+[39;49m[37m[40m[H[2JNCursesDisplay::Display()$$$$$$$$$$$$$
+NCursesDisplay::Display()@@@@@@@@@@@@222
+NCursesDisplay::Display()
+NCursesDisplay::Display()===========
+NCursesDisplay::Display()+++++++++++
+NCursesDisplay::Display()-----------
+NCursesDisplay::Display()__________
+System::Kernel()
+(0[0m[39;49m[37m[40mlq[130bk(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m OS: Ubuntu 18.04.4 LTS[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Kernel: 4.15.0-99-generic[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m CPU:    [34m[40m0%|||||[47X[4;65H9.7/100%[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Memory: [34m[40m0%|[23b[27X[5;64H47.6/100%[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Total Processes: 13166[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Running Processes: 1[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Up Time: 5:1:29[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mmq[130bj(B[39;49m[37m[40m[8;18H(0[0m[39;49m[37m[40m(B[39;49m[37m[40m
+ NCursesDisplay::Display()**********
+PIDs
+= 1
+PIDs
+= 2
+PIDs
+= 4
+PIDs
+= 6
+PIDs
+= 7
+PIDs
+= 8
+PIDs
+= 9
+PIDs
+= 10
+PIDs
+= 11
+PIDs
+= 12
+PIDs
+= 13
+PIDs
+= 14
+PIDs
+= 15
+PIDs
+= 16
+PIDs
+= 18
+PIDs
+= 19
+PIDs
+= 20
+PIDs
+= 21
+PIDs
+= 22
+PIDs
+= 24
+PIDs
+= 25
+PIDs
+= 26
+PIDs
+= 27
+PIDs
+= 28
+PIDs
+= 30
+PIDs
+= 31
+PIDs
+= 32
+PIDs
+= 33
+PIDs
+= 34
+PIDs
+= 38
+PIDs
+= 39
+PIDs
+= 40
+PIDs
+= 41
+PIDs
+= 42
+PIDs
+= 43
+PIDs
+= 44
+PIDs
+= 45
+PIDs
+= 46
+PIDs
+= 47
+PIDs
+= 48
+PIDs
+= 49
+PIDs
+= 50
+PIDs
+= 51
+PIDs
+= 55
+PIDs
+= 57
+PIDs
+= 99
+PIDs
+= 100
+PIDs
+= 105
+PIDs
+= 114
+PIDs
+= 135
+PIDs
+= 191
+PIDs
+= 192
+PIDs
+= 194
+PIDs
+= 195
+PIDs
+= 196
+PIDs
+= 197
+PIDs
+= 198
+PIDs
+= 199
+PIDs
+= 203
+PIDs
+= 204
+PIDs
+= 205
+PIDs
+= 206
+PIDs
+= 210
+PIDs
+= 211
+PIDs
+= 213
+PIDs
+= 214
+PIDs
+= 297
+PIDs
+= 298
+PIDs
+= 332
+PIDs
+= 342
+PIDs
+= 394
+PIDs
+= 408
+PIDs
+= 438
+PIDs
+= 452
+PIDs
+= 472
+PIDs
+= 487
+PIDs
+= 496
+PIDs
+= 750
+PIDs
+= 764
+PIDs
+= 770
+PIDs
+= 952
+PIDs
+= 955
+PIDs
+= 994
+PIDs
+= 995
+PIDs
+= 997
+PIDs
+= 999
+PIDs
+= 1003
+PIDs
+= 1008
+PIDs
+= 1013
+PIDs
+= 1014
+PIDs
+= 1019
+PIDs
+= 1029
+PIDs
+= 1030
+PIDs
+= 1035
+PIDs
+= 1038
+PIDs
+= 1039
+PIDs
+= 1040
+PIDs
+= 1043
+PIDs
+= 1045
+PIDs
+= 1110
+PIDs
+= 1134
+PIDs
+= 1135
+PIDs
+= 1141
+PIDs
+= 1182
+PIDs
+= 1202
+PIDs
+= 1209
+PIDs
+= 1341
+PIDs
+= 1345
+PIDs
+= 1347
+PIDs
+= 1352
+PIDs
+= 1536
+PIDs
+= 1537
+PIDs
+= 1551
+PIDs
+= 1554
+PIDs
+= 1593
+PIDs
+= 1914
+PIDs
+= 2047
+PIDs
+= 2120
+PIDs
+= 2125
+PIDs
+= 2134
+PIDs
+= 2139
+PIDs
+= 2141
+PIDs
+= 2143
+PIDs
+= 2151
+PIDs
+= 2165
+PIDs
+= 2173
+PIDs
+= 2174
+PIDs
+= 2178
+PIDs
+= 2197
+PIDs
+= 2202
+PIDs
+= 2206
+PIDs
+= 2224
+PIDs
+= 2229
+PIDs
+= 2244
+PIDs
+= 2248
+PIDs
+= 2259
+PIDs
+= 2261
+PIDs
+= 2263
+PIDs
+= 2271
+PIDs
+= 2279
+PIDs
+= 2284
+PIDs
+= 2286
+PIDs
+= 2287
+PIDs
+= 2295
+PIDs
+= 2303
+PIDs
+= 2307
+PIDs
+= 2314
+PIDs
+= 2324
+PIDs
+= 2327
+PIDs
+= 2328
+PIDs
+= 2339
+PIDs
+= 2341
+PIDs
+= 2357
+PIDs
+= 2366
+PIDs
+= 2378
+PIDs
+= 2383
+PIDs
+= 2410
+PIDs
+= 2413
+PIDs
+= 2463
+PIDs
+= 2464
+PIDs
+= 2485
+PIDs
+= 2495
+PIDs
+= 2532
+PIDs
+= 2543
+PIDs
+= 2546
+PIDs
+= 2567
+PIDs
+= 2570
+PIDs
+= 2587
+PIDs
+= 2607
+PIDs
+= 2654
+PIDs
+= 2668
+PIDs
+= 2675
+PIDs
+= 2681
+PIDs
+= 2705
+PIDs
+= 2762
+PIDs
+= 2773
+PIDs
+= 2784
+PIDs
+= 2846
+PIDs
+= 2860
+PIDs
+= 2945
+PIDs
+= 2994
+PIDs
+= 3018
+PIDs
+= 3068
+PIDs
+= 4922
+PIDs
+= 5022
+PIDs
+= 6445
+PIDs
+= 7850
+PIDs
+= 8339
+PIDs
+= 8816
+PIDs
+= 8819
+PIDs
+= 8820
+PIDs
+= 9040
+PIDs
+= 9097
+PIDs
+= 9342
+PIDs
+= 9353
+PIDs
+= 9692
+PIDs
+= 9693
+PIDs
+= 9706
+PIDs
+= 9707
+PIDs
+= 9755
+PIDs
+= 9782
+PIDs
+= 9788
+PIDs
+= 9882
+PIDs
+= 9902
+PIDs
+= 10789
+PIDs
+= 12860
+PIDs
+= 13167
+===========
+----------
+__________
+***********
+&&&&&&&&
+^^^^^^^^^
+%%%%%%%%%%
+$$$$$$$$$
+#########
+Process::Pid(): 1
+PID: Process::Pid(): 1
+1
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 2
+PID: Process::Pid(): 2
+2
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 4
+PID: Process::Pid(): 4
+4
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 6
+PID: Process::Pid(): 6
+6
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 7
+PID: Process::Pid(): 7
+7
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 8
+PID: Process::Pid(): 8
+8
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 9
+PID: Process::Pid(): 9
+9
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 10
+PID: Process::Pid(): 10
+10
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 11
+PID: Process::Pid(): 11
+11
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+#########
+Process::Pid(): 12
+PID: Process::Pid(): 12
+12
+@@@@@@@@
+Process::User()
+begin
+end
+!!!!!!!!!
+111111111
+2222222
+33333333
+44444444
+55555555
+NCursesDisplay::Display()&&&&&&&&&&
+NCursesDisplay::Display()^^^^^^^^^^^
+
+
+(0[0m[39;49m[37m[40mlq[130bk(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m [32m[40mPID(B[m[39;49m[37m[40m    [32m[40mUSER(B[m[39;49m[37m[40m   [32m[40mCPU[%](B[m[39;49m[37m[40m    [32m[40mRAM[MB](B[m[39;49m[37m[40m  [32m[40mTIME+[47GCOMMAND[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 1[10Groot   inf[27G225.000000:0:0[47G/sbin/init[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 2[10Groot   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 4[10Groot   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 6[10Groot   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 7[10Groot   inf[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 8[10Groot   inf[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 9[10Groot   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 10     root   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 11     root   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 12     root   -nan[27G0.000000 0:0:0[133G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mmq[130bj(B[39;49m[37m[40m[21;47H(0[0m[39;49m[37m[40m(B[39;49m[37m[40mNCursesDisplay::Display()%%%%%%%%%%%%
+[HNCursesDisplay::Display()$$$$$$$$$$$$$
+[39;49m[65d[K[65;1H[?1049l[23;0;0t[?1l>
