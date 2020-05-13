@@ -24,7 +24,7 @@ vector<Process>& System::Processes()
 {
     processes_.clear();
     vector<int> pids = LinuxParser::Pids();
-    for (int i = 0; i < pids.size(); i++)
+    for (unsigned i = 0; i < pids.size(); i++)
     {
         Process process(pids.at(i));
         processes_.push_back(process);
