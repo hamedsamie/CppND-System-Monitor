@@ -13,7 +13,7 @@ float Processor::Utilization()
     m_cpuUtilization = 0;
     std::vector<std::string> cpuJiffs = LinuxParser::CpuUtilization();
 
-    for (int i=0; i<cpuJiffs.size(); i++)
+    for (unsigned i=0; i<cpuJiffs.size(); i++)
     {
         if (i!=LinuxParser::kGuest_ && i!=LinuxParser::kGuestNice_)
         {
